@@ -4,85 +4,29 @@
   
     
     <entry>
-      <title>第一篇文章</title>
-      <link href="/2024/05/22/2024-5-22-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2024/05/22/2024-5-22-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>2024-5-23-第一篇文章</title>
+      <link href="/2024/05/23/2024-5-23-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/05/23/2024-5-23-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="历程"><a href="#历程" class="headerlink" title="历程"></a>历程</h1><p>第一次对个人博客产生兴趣是23年快寒假，当时无意间刷到的视频让我觉得个人博客好高级好帅。在这样的想法下，我萌生了搭建自己的个人博客的想法。</p><p>第一次网上随意搜的hexo博客教程，记得是一个作者19年发布的，主题是Ayer，过程中各种莫名其妙的报错和bug使我心烦意乱，之后因为期末考试搁置。</p><p>第二次是24年4月初，当时只是简单部署了一下，但是因为使用PicGo的时候一直上传失败，偶尔上传成功的图，之后也出了问题。连续3天查阅各种资料，知乎，csdn，个人博客，github，博客园，b站……各位大佬给的解决方案都试了一遍，最后没能解决，再次搁置。</p><p>第三次是24年5月初，刷到了b站up <strong>–Fomalhaut</strong> 的hexo博客搭建教学视频，收藏后迟迟没有动手。都说事不过三，5月22号下午，决定看这个视频内容再做一次。一开始就直接看up的图床教学视频，发现和之前自己的做法一样。心想再试一次，结果意外成功了（其实还有点小毛病跟小疑惑，但大体上不影响在个人博客上的浏览），之后在up的教学视频下做了一些修改，在此十分感谢up的分享教学！</p><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p>参考up:</p><img src="https://cdn.jsdelivr.net/gh/flymhh/TuChuang/2024/5/202405232032106.png" alt="image-20240523203240731" style="zoom: 25%;" /><p>参考博文：</p><p><a href="https://www.fomal.cc/">https://www.fomal.cc/</a></p><p><a href="https://akilar.top/">https://akilar.top/</a></p><p><a href="https://v20blog.17lai.site/">https://v20blog.17lai.site/</a></p><p>在此向各位表示感谢！</p>]]></content>
       
       
+      <categories>
+          
+          <category> 随笔杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
       
     </entry>
     
     
   
-  
-    
-    
-    <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
   
 </search>
