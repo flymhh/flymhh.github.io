@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>大模型全链路开源体系</title>
+      <link href="/2024/05/24/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%85%A8%E9%93%BE%E8%B7%AF%E5%BC%80%E6%BA%90%E4%BD%93%E7%B3%BB/"/>
+      <url>/2024/05/24/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%85%A8%E9%93%BE%E8%B7%AF%E5%BC%80%E6%BA%90%E4%BD%93%E7%B3%BB/</url>
+      
+        <content type="html"><![CDATA[<h2 id="大模型："><a href="#大模型：" class="headerlink" title="大模型："></a>大模型：</h2><h3 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h3><p>大模型是指具有大规模参数和复杂计算结构的机器学习模型。这些模型通常由深度神经网络构建而成，拥有数十亿甚至数千亿个参数。大模型的设计目的是为了提高模型的表达能力和预测性能，能够处理更加复杂的任务和数据。大模型在各种领域都有广泛的应用，包括自然语言处理、计算机视觉、语音识别和推荐系统等。大模型通过训练海量数据来学习复杂的模式和特征，具有更强大的泛化能力，可以对未见过的数据做出准确的预测。</p><p>关于大模型的一些普及概念，参考文章：<a href="https://xie.infoq.cn/article/c73d7cd6c89fa88279e6e0afe">什么是大模型？一文读懂大模型的基本概念_九章云极DataCanvas_InfoQ写作社区</a></p><h3 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h3><p>专用大模型</p><p>通用大模型（现在的趋势，如ChatGPT）</p><h2 id="书生浦语2-0"><a href="#书生浦语2-0" class="headerlink" title="书生浦语2.0"></a>书生浦语2.0</h2><img src="https://cdn.jsdelivr.net/gh/flymhh/TuChuang/2024/5/202405240954147.png" alt="image-20240524095416738"  /><h3 id="亮点"><a href="#亮点" class="headerlink" title="亮点"></a>亮点</h3><img src="https://cdn.jsdelivr.net/gh/flymhh/TuChuang/2024/5/202405241004308.png" alt="image-20240524100416975"  /><p>（视频看到这里讲到工具调用能力，看到好像有调用地图API获得位置信息啥的，回头看看咋个用咋个玩）</p><h3 id="模型到应用的流程"><a href="#模型到应用的流程" class="headerlink" title="模型到应用的流程"></a>模型到应用的流程</h3><p><img src="https://cdn.jsdelivr.net/gh/flymhh/TuChuang/2024/5/202405241022871.png" alt="image-20240524102223615"></p><p>书生·浦语针对这个流程，为了让各位更轻松简单的使用它的模型，开发了全链条开源工具体系</p><p><img src="https://cdn.jsdelivr.net/gh/flymhh/TuChuang/2024/5/202405241026241.png" alt="image-20240524102602897"></p><h3 id="体系介绍"><a href="#体系介绍" class="headerlink" title="体系介绍"></a>体系介绍</h3><h4 id="数据："><a href="#数据：" class="headerlink" title="数据："></a>数据：</h4><p><img src="https://cdn.jsdelivr.net/gh/flymhh/TuChuang/2024/5/202405241029158.png" alt="image-20240524102921629"></p><h4 id="预训练："><a href="#预训练：" class="headerlink" title="预训练："></a>预训练：</h4><p><img src="https://cdn.jsdelivr.net/gh/flymhh/TuChuang/2024/5/202405241031626.png" alt="image-20240524103102151"></p><h4 id="微调："><a href="#微调：" class="headerlink" title="微调："></a>微调：</h4><p><img src="https://cdn.jsdelivr.net/gh/flymhh/TuChuang/2024/5/202405241034995.png" alt="image-202405241034995"></p><h4 id="评测："><a href="#评测：" class="headerlink" title="评测："></a>评测：</h4><p><img src="https://cdn.jsdelivr.net/gh/flymhh/TuChuang/2024/5/202405241037638.png" alt="image-20240524103726311"></p><h4 id="部署："><a href="#部署：" class="headerlink" title="部署："></a>部署：</h4><p><img src="https://cdn.jsdelivr.net/gh/flymhh/TuChuang/2024/5/202405241042166.png" alt="image-20240524104228747"></p><h4 id="智能体："><a href="#智能体：" class="headerlink" title="智能体："></a>智能体：</h4><p><img src="https://cdn.jsdelivr.net/gh/flymhh/TuChuang/2024/5/202405241044838.png" alt="image-20240524104429373"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 书生·浦语 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 大模型 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2024-5-23-第一篇文章</title>
       <link href="/2024/05/23/2024-5-23-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2024/05/23/2024-5-23-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
